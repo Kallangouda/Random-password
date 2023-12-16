@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 * {
-    padding: 1px;
+    padding: 2px;
     margin: 1px;
     box-sizing: border-box;
     font-family: "Gill Sans Extrabold", sans-serif;
@@ -12,14 +12,14 @@ input:focus-visible {
 
 .main {
     background-color: #f305d7;
-    min-height: 100vh;
+    min-height: 101vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .box {
-    min-width: 500px;
+    min-width: 504px;
     padding: 10px;
     box-shadow: 0 4px 10px rgb(0 0 0 / 50%);
     background: #c204fc;
@@ -31,8 +31,8 @@ input:focus-visible {
     width: 100%;
     display: block;
     background-color: rgb(255, 255, 255);
-    font-size: 30px;
-    padding: 10px;
+    font-size: 40px;
+    padding: 20px;
     border-radius: 4px;
 }
 
@@ -42,7 +42,7 @@ input:focus-visible {
     margin-top: 10px;
     justify-content: space-between;
     color: rgb(0, 204, 255);
-    font-size: 23px;
+    font-size: 25px;
 }
 
 label {
@@ -50,7 +50,7 @@ label {
 }
 
 #btn {
-    width: 100%;
+    width: 101%;
     font-size: 25px;
     outline: 0;
     border: 0;
