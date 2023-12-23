@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 * {
-    padding: 3px;
-    margin: 2px;
+    padding: 2px;
+    margin: 1px;
     box-sizing: border-box;
     font-family: "Gill Sans Extrabold", sans-serif;
 }
@@ -12,32 +12,32 @@ input:focus-visible {
 
 .main {
     background-color: #f305d7;
-    min-height: 101vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .box {
-    min-width: 504px;
+    min-width: 500px;
     padding: 10px;
-    box-shadow: 0 4px 10px rgb(0 0 0 / 50%);
+    box-shadow: 0 0px 10px rgb(0 0 0 / 50%);
     background: #c204fe;
-    border-radius: 2px;
-    margin-top: 11px;
+    border-radius: 1px;
+    margin-top: 10px;
 }
 
 #pass-box {
     width: 101%;
     display: block;
     background-color: rgb(255, 255, 255);
-    font-size: 41px;
+    font-size: 40px;
     padding: 20px;
-    border-radius: 3px;
+    border-radius: 2px;
 }
 
 .row {
-    width: 101%;
+    width: 100%;
     display: flex;
     margin-top: 10px;
     justify-content: space-between;
@@ -50,13 +50,13 @@ label {
 }
 
 #btn {
-    width: 101%;
-    font-size: 24px;
+    width: 100%;
+    font-size: 25px;
     outline: 0;
     border: 0;
     padding: 11px;
     background-color: rgb(1, 108, 216);
     color: rgb(255, 0, 0);
-    margin-top: 11px;
-    border-radius: 6px;
+    margin-top: 10px;
+    border-radius: 5px;
 }
