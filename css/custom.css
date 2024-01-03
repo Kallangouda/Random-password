@@ -11,7 +11,7 @@ input:focus-visible {
 }
 
 .main {
-    background-color: #458a53;
+    background-color: #f305d7;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -19,29 +19,29 @@ input:focus-visible {
 }
 
 .box {
-    min-width: 580px;
+    min-width: 500px;
     padding: 10px;
     box-shadow: 0 4px 10px rgb(0 0 0 / 50%);
-    background: #579d9d;
+    background: #c204fc;
     border-radius: 2px;
-    margin-top: 10px;
+    margin-top: 11px;
 }
 
 #pass-box {
     width: 100%;
     display: block;
     background-color: rgb(255, 255, 255);
-    font-size: 30px;
-    padding: 10px;
-    border-radius: 4px;
+    font-size: 40px;
+    padding: 20px;
+    border-radius: 2px;
 }
 
 .row {
-    width: 100%;
+    width: 101%;
     display: flex;
     margin-top: 10px;
     justify-content: space-between;
-    color: rgb(0, 0, 0);
+    color: rgb(0, 204, 255);
     font-size: 23px;
 }
 
@@ -50,13 +50,13 @@ label {
 }
 
 #btn {
-    width: 100%;
-    font-size: 25px;
+    width: 101%;
+    font-size: 26px;
     outline: 0;
     border: 0;
     padding: 10px;
     background-color: rgb(0, 108, 216);
-    color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
     margin-top: 10px;
     border-radius: 5px;
 }
