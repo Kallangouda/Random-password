@@ -11,7 +11,7 @@ input:focus-visible {
 }
 
 .main {
-    background-color: #f305d7;
+    background-color: #458a53;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -19,10 +19,10 @@ input:focus-visible {
 }
 
 .box {
-    min-width: 500px;
+    min-width: 580px;
     padding: 10px;
     box-shadow: 0 4px 10px rgb(0 0 0 / 50%);
-    background: #c204fc;
+    background: #579d9d;
     border-radius: 2px;
     margin-top: 10px;
 }
@@ -41,7 +41,7 @@ input:focus-visible {
     display: flex;
     margin-top: 10px;
     justify-content: space-between;
-    color: rgb(0, 204, 255);
+    color: rgb(0, 0, 0);
     font-size: 23px;
 }
 
@@ -56,7 +56,7 @@ label {
     border: 0;
     padding: 10px;
     background-color: rgb(0, 108, 216);
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     margin-top: 10px;
     border-radius: 5px;
 }
