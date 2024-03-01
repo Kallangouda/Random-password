@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 * {
-    padding: 1px;
-    margin: 1px;
+    padding: 1.5px;
+    margin: 1.5px;
     box-sizing: border-box;
     font-family: "Gill Sans Extrabold", sans-serif;
 }
@@ -12,15 +12,15 @@ input:focus-visible {
 
 .main {
     background-color: #5ad09f;
-    min-height: 100vh;
+    min-height: 101vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .box {
-    min-width: 580px;
-    padding: 10px;
+    min-width: 581px;
+    padding: 1.14px;
     box-shadow: 0 4px 10px rgb(0 0 0 / 50%);
     background: #60c1da;
     border-radius: 2px;
@@ -28,10 +28,10 @@ input:focus-visible {
 }
 
 #pass-box {
-    width: 100%;
+    width: 101%;
     display: block;
     background-color: rgb(255, 255, 255);
-    font-size: 40px;
+    font-size: 41px;
     padding: 2%;
     border-radius: 2px;
 }
@@ -39,7 +39,7 @@ input:focus-visible {
 .row {
     width: 101%;
     display: flex;
-    margin-top: 10px;
+    margin-top: 11px;
     justify-content: space-between;
     color: rgb(0, 0, 0);
     font-size: 23px;
@@ -50,13 +50,13 @@ label {
 }
 
 #btn {
-    width: 101%;
-    font-size: 26px;
+    width: 100%;
+    font-size: 25px;
     outline: 0;
     border: 0;
     padding: 10px;
     background-color: rgb(0, 108, 216);
     color: rgb(255, 255, 255);
-    margin-top: 10px;
-    border-radius: 5px;
+    margin-top: 11px;
+    border-radius: 6px;
 }
