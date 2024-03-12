@@ -10,3 +10,4 @@ This is a simple web application that allows users to generate random passwords.
 - Generate random passwords of varying lengths
 - Option to include uppercase letters, lowercase letters, numbers, and special characters in the generated password
 - Copy password to clipboard functionality
+- Responsive design for mobile and desktop browsers
