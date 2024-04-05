@@ -2,7 +2,7 @@
 
 <p>Password Generator App written in HTML, CSS, and JavaScript .</p>
 
-#### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://kallangouda.github.io/Age-Calculator/)
+#### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://kallangouda.github.io/Random-password/)
 
 
 ### Use of the Project:
