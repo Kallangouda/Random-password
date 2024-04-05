@@ -1,10 +1,10 @@
-<h1>Password Generator App</h1>
+<h1>Password Generator</h1>
 
 <p>Password Generator App written in HTML, CSS, and JavaScript .</p>
 
 ### Use of the Project:
 
-<p>This app helps to create strong random passwords which can be easily used during authentication.</p>
+<p>This site helps to create strong random passwords which can be easily used during authentication.</p>
 
 <h3>Used Technologies</h3>
 <ul>
@@ -20,12 +20,6 @@
 - Download or clone the repository
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Start Calculating!!
 
 <h3> ScreenShots </h3> 
 
