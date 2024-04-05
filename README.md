@@ -1,13 +1,36 @@
-# Random-password
+<h1>Password Generator App</h1>
 
-#### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://kallangouda.github.io/Random-password/)
+<p>Password Generator App written in HTML, CSS, and JavaScript .</p>
 
-# Overview
-This is a simple web application that allows users to generate random passwords. The project is built using HTML, CSS, and JavaScript.
+### Use of the Project:
 
-# Features
-**- Random Password Generation:** Users can click a button to generate a random password with configurable length and complexity.
-- Generate random passwords of varying lengths
-- Option to include uppercase letters, lowercase letters, numbers, and special characters in the generated password
-- Copy password to clipboard functionality
-- Responsive design for mobile and desktop browsers
+<p>This app helps to create strong random passwords which can be easily used during authentication.</p>
+
+<h3>Used Technologies</h3>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+</ul>
+
+#### Steps to Use:
+
+---
+
+- Download or clone the repository
+
+```
+git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+```
+
+- Go to the directory
+- Run the index.html file
+- Start Calculating!!
+
+<h3> ScreenShots </h3> 
+
+<img width="750" alt="Password Generator" src="https://user-images.githubusercontent.com/63009472/125650386-c89c969a-85ac-4807-b5fe-ee299ffd2083.png">
+
+<br>
+
+
