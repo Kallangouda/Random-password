@@ -8,29 +8,29 @@ body {
   background-color: #3b4498;
   color: rgb(255, 255, 255);
   font-family:  'Muli';
-  font-weight: 501;
+  font-weight: 500;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 101vh;
+  height: 100vh;
   overflow: hidden;
-  padding: 11px;
+  padding: 10px;
   margin: 0;
 }
 
 h2 {
   margin: 10px 0 20px;
   text-align: center;
-  font-weight: 1001;
+  font-weight: 1000;
 }
 
 .container {
   background-color: #7a4fac;
   box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
-  padding: 21px;
-  width: 351px;
-  max-width: 101%;
+  padding: 20px;
+  width: 350px;
+  max-width: 100%;
 }
 
 .result-container {
@@ -43,8 +43,8 @@ h2 {
   font-weight: bold;
   letter-spacing: 1px;
   padding: 12px 10px;
-  height: 51px;
-  width: 101%;
+  height: 50px;
+  width: 100%;
 }
 
 .result-container #result {
@@ -56,23 +56,23 @@ h2 {
   position: absolute;
   top: 5px;
   right: 5px;
-  width: 41px;
-  height: 41px;
-  font-size: 21px;
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
 }
 
 .btn {
   border: none;
   background-color: #2c085c;
   color: #fff;
-  font-size: 16px;
+  font-size: 15px;
   padding: 8px 12px;
   cursor: pointer;
 }
 
 .btn-large {
   display: block;
-  width: 101%;
+  width: 100%;
 }
 
 .setting {
