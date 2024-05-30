@@ -7,7 +7,7 @@
 
 ### Use of the Project:
 
-<p>This site helps to create strong random passwords which can be easily used during authentication.</p>
+<p>This site helps to create strong random passwords which can be easily used during authentication...</p>
 
 <h3>Used Technologies</h3>
 <ul>
